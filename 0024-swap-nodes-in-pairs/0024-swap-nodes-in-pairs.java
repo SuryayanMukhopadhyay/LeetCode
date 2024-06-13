@@ -26,26 +26,17 @@ class Solution {
         ListNode temp = head, prev = null;
         head = null;
         while (temp != null && temp.next != null) {
-            // if (temp.next.next == null) {
-            //     if(prev != null)
-            //         prev.next = null;
-            //     temp = reverse(temp);
-            //     if(prev != null)
-            //         prev.next = temp;
-            //     break;
-            // } else {
-                ListNode nextnode = temp.next.next;
-                temp.next.next = null;
-                temp = reverse(temp);
-                if (head == null) {
-                    head = temp;
-                }
-                if(prev != null)
-                    prev.next = temp;
-                prev = temp.next;
-                prev.next = nextnode;
-                temp = nextnode;
-            // }
+            ListNode nextnode = temp.next.next;
+            temp.next.next = null;
+            temp = reverse(temp);
+            if (head == null) {
+                head = temp;                
+            }
+            if(prev != null)
+                prev.next = temp;
+            prev = temp.next;                
+            prev.next = nextnode;
+            temp = nextnode;
         }
         return head;
     }
