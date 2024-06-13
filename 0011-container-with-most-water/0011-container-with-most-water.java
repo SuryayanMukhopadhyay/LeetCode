@@ -2,9 +2,9 @@ class Solution {
     public int maxArea(int[] height) {
         int n = height.length;
         int left = 0, right = n - 1;
-        int max = Integer.MIN_VALUE, mul = 0;
+        int max = 0;
         while(left < right) {
-            mul = Math.min(height[left], height[right]) * (right - left);
+            int mul = Math.min(height[left], height[right]) * (right - left);
             if(height[left] < height[right]) {
                 left++;
             }
