@@ -5,16 +5,14 @@ class Solution {
         int max = Integer.MIN_VALUE, mul = 0;
         while(left < right) {
             mul = Math.min(height[left], height[right]) * (right - left);
-            max = Math.max(mul, max);
             if(height[left] < height[right]) {
                 left++;
             }
             else {
                 right--;
             }
+            max = Math.max(mul, max);
         }
-        mul = Math.min(height[left], height[right]) * (right - left);
-        max = Math.max(mul, max);
         return max;
     }
 }
