@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
