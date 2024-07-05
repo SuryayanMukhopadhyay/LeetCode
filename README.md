@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
