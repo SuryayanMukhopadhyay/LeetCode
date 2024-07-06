@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0009-palindrome-number) |
 | [1585-the-kth-factor-of-n](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
