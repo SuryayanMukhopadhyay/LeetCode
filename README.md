@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0047-permutations-ii) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
