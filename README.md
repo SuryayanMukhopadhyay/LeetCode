@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
@@ -151,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
