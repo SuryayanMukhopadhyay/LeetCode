@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
