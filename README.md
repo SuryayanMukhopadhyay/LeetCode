@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
