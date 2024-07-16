@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
