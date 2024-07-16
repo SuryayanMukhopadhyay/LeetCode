@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0134-gas-station) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
