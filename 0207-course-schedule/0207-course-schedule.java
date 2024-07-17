@@ -1,29 +1,40 @@
 class Solution {
-    public static boolean dfs(int numCourses, int[][] prerequisites, int source, boolean[] visited, boolean[] path, int n) {
-        visited[source] = true;
-        path[source] = true;
-        for (int i = 0; i < n; i++) {
-            if (prerequisites[i][0] == source) {
-                if (!visited[prerequisites[i][1]]) {
-                    if (dfs(numCourses, prerequisites, prerequisites[i][1], visited, path, n))
-                        return true;
-                } else if (path[prerequisites[i][1]])
-                    return true;
-            }
-        }
-        path[source] = false;
-        return false;
-    }
+    public boolean canFinish(int n, int[][] prerequisites) {
+        List<Integer>[] adj = new List[n];
+        int[] indegree = new int[n];
+        List<Integer> ans = new ArrayList<>();
 
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        boolean[] visited = new boolean[numCourses];
-        boolean[] path = new boolean[numCourses];
-        int n = prerequisites.length;
-        for (int i = 0; i < numCourses; i++) {
-            if (!visited[i]) {
-                if(dfs(numCourses, prerequisites, i, visited, path, n)) return false;
+        for (int[] pair : prerequisites) {
+            int course = pair[0];
+            int prerequisite = pair[1];
+            if (adj[prerequisite] == null) {
+                adj[prerequisite] = new ArrayList<>();
+            }
+            adj[prerequisite].add(course);
+            indegree[course]++;
+        }
+
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                queue.offer(i);
             }
         }
-        return true;
+
+        while (!queue.isEmpty()) {
+            int current = queue.poll();
+            ans.add(current);
+
+            if (adj[current] != null) {
+                for (int next : adj[current]) {
+                    indegree[next]--;
+                    if (indegree[next] == 0) {
+                        queue.offer(next);
+                    }
+                }
+            }
+        }
+
+        return ans.size() == n;
     }
 }
