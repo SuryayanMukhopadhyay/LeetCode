@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
