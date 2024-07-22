@@ -9,13 +9,10 @@ public class Solution {
     // helper returns the max branch 
     // plus current node's value
     int helper(TreeNode root) {
-        if (root == null) return 0;
-        
-        int left = Math.max(helper(root.left), 0);
-        int right = Math.max(helper(root.right), 0);
-        
-        max = Math.max(max, root.val + left + right);
-        
-        return root.val + Math.max(left, right);
+        if(root == null) return 0;
+        int l = Math.max(helper(root.left), 0);
+        int r = Math.max(helper(root.right), 0);
+        max = Math.max(max, l + r + root.val);
+        return root.val + Math.max(l, r);
     }
 }
