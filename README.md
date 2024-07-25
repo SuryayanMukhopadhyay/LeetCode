@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
