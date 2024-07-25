@@ -10,7 +10,8 @@ class Solution {
         dist[0][0] = 0;
         PriorityQueue<int[]> PQ = new PriorityQueue<>((x, y) -> x[0] - y[0]);
         PQ.offer(new int[] {0, 0, 0});
-        int effort = Integer.MAX_VALUE;
+        int[] dr = { 0, 0, -1, 1 };
+        int[] dc = { -1, 1, 0, 0 };
         while(!PQ.isEmpty()) {
             int[] temp = PQ.peek();
             PQ.poll();
@@ -18,25 +19,20 @@ class Solution {
             int i = temp[1];
             int j = temp[2];
             if(i == r - 1 && j == c - 1) {
-                effort = Math.min(effort, diff);
+                return diff;
             }
-            if(i < r - 1 && Math.abs(heights[i + 1][j] - heights[i][j]) < dist[i + 1][j]) {
-                dist[i + 1][j] = Math.abs(heights[i + 1][j] - heights[i][j]);
-                PQ.offer(new int[] {Math.abs(heights[i + 1][j] - heights[i][j]), i + 1, j});
-            }
-            if(i > 0 && Math.abs(heights[i - 1][j] - heights[i][j]) < dist[i - 1][j]) {
-                dist[i - 1][j] = Math.abs(heights[i - 1][j] - heights[i][j]);
-                PQ.offer(new int[] {Math.abs(heights[i - 1][j] - heights[i][j]), i - 1, j});
-            }
-            if(j < c - 1 && Math.abs(heights[i][j + 1] - heights[i][j]) < dist[i][j + 1]) {
-                dist[i][j + 1] = Math.abs(heights[i][j + 1] - heights[i][j]);
-                PQ.offer(new int[] {Math.abs(heights[i][j + 1] - heights[i][j]), i, j + 1});
-            }
-            if(j > 0 && Math.abs(heights[i][j - 1] - heights[i][j]) < dist[i][j - 1]) {
-                dist[i][j - 1] = Math.abs(heights[i][j - 1] - heights[i][j]);
-                PQ.offer(new int[] {Math.abs(heights[i][j - 1] - heights[i][j]), i, j - 1});
+            for(int k = 0; k < 4; k++) {
+                int newrow = i + dr[k];
+                int newcol = j + dc[k];
+                if(newrow >= 0 && newcol >= 0 && newrow < r && newcol < c) {
+                    int effort = Math.max(Math.abs(heights[i][j] - heights[newrow][newcol]), diff);
+                    if(effort < dist[newrow][newcol]) {
+                        PQ.offer(new int[] {effort, newrow, newcol});
+                        dist[newrow][newcol] = effort;
+                    }
+                }
             }
         }
-        return effort;
+        return 0;
     }
 }
