@@ -1,13 +1,16 @@
 class Solution {
+    public static int helper(int n, int[] memo) {
+        if (n == 0 || n == 1) {
+            return 1;
+        }
+        if(memo[n] != 46) return memo[n];
+        else {
+            return memo[n] = helper(n - 1, memo) + helper(n - 2, memo);
+        }
+    }
     public int climbStairs(int n) {
-       int one = 1;
-       int two = 0;
-       for(int i=n-1;i>=0;i--)
-       {
-           int temp = one;
-           one = two + one;
-           two = temp;
-       } 
-       return one;
+        int[] memo = new int[46];
+        Arrays.fill(memo, 46);
+        return helper(n, memo);
     }
 }
