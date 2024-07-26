@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
