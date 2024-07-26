@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -342,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
