@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
