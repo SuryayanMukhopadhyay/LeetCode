@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
