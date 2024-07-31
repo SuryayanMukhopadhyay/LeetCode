@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0890-lemonade-change) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## String
 |  |
