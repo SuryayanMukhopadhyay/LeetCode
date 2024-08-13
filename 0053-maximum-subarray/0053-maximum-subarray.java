@@ -9,7 +9,6 @@ class Solution {
                 sum = 0;
             }
         }
-        // max = Math.max(max, sum);
         return max;
 
     }
