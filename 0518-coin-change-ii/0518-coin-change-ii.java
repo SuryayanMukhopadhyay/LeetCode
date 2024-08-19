@@ -3,9 +3,9 @@ class Solution {
         if(amount == 0) {
             return 1;
         }
-        // if(amount < 0) {
-        //     return 0;
-        // }
+        if(amount < 0) {
+            return 0;
+        }
         if(idx == coins.length) {
             return 0;
         }
