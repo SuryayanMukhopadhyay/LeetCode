@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1879-maximum-score-from-removing-stones](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 ## Number Theory
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0890-lemonade-change) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1879-maximum-score-from-removing-stones](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Divide and Conquer
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1879-maximum-score-from-removing-stones](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Quickselect
