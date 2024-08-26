@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
