@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0054-spiral-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
