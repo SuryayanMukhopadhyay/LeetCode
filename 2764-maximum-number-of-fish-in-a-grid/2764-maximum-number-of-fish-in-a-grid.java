@@ -9,7 +9,6 @@ class Solution {
         dfs(grid, i - 1, j, m, n, arr, visited);
         dfs(grid, i, j + 1, m, n, arr, visited);
         dfs(grid, i, j - 1, m, n, arr, visited);
-        // visited[i][j] = false;
     }
     public int findMaxFish(int[][] grid) {
         int m = grid.length, n = grid[0].length;
