@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0242-valid-anagram) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0419-battleships-in-a-board) |
