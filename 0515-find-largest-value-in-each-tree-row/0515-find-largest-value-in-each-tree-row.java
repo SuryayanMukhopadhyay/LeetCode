@@ -15,12 +15,12 @@
  */
 class Solution {
     public List<Integer> largestValues(TreeNode root) {
-        Queue<TreeNode> Q = new LinkedList<>();
-        Q.offer(root);
         List<Integer> list = new ArrayList<>();
         if(root == null) {
             return list;
         }
+        Queue<TreeNode> Q = new LinkedList<>();
+        Q.offer(root);
         while(!Q.isEmpty()) {
             int size = Q.size();
             int max = Integer.MIN_VALUE;
