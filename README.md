@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Binary Tree
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
