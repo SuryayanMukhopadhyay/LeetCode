@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Sorting
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
