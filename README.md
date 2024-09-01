@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
