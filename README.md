@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Tree
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
