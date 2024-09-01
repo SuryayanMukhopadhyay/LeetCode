@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Union Find
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1879-maximum-score-from-removing-stones](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Quickselect
 |  |
 | ------- |
