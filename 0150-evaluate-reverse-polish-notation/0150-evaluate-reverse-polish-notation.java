@@ -8,13 +8,13 @@ class Solution {
                 int b = stack.peek();
                 stack.pop();
                 if(token.equals("+")) {
-                    stack.push(a + b);
+                    stack.push(b + a);
                 }
                 else if(token.equals("-")) {
                     stack.push(b - a);
                 }
                 else if(token.equals("*")) {
-                    stack.push(a * b);
+                    stack.push(b * a);
                 }
                 else {
                     if(a == 0 || b == 0) {
