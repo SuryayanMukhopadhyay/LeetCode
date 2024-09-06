@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0542-01-matrix) |
