@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1585-the-kth-factor-of-n) |
