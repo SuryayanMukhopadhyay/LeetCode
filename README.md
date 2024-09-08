@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
