@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Stack
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
