@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Database
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
