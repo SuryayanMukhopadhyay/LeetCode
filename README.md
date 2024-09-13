@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Graph
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
