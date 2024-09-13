@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
