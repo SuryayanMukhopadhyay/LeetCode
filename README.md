@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Graph
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
