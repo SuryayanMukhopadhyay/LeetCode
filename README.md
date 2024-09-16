@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
 | [1170-shortest-common-supersequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
