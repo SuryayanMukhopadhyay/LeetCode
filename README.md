@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0164-maximum-gap) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0312-burst-balloons) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0242-valid-anagram) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Design
 |  |
@@ -662,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
 ## Monotonic Stack
 |  |
