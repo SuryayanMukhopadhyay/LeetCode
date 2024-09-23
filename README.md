@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0079-word-search) |
@@ -685,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
