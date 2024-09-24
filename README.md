@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0022-generate-parentheses) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
