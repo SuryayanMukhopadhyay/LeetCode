@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
