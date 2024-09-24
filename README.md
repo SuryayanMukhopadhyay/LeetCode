@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 ## Quickselect
 |  |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
 | ------- |
