@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-reduce-array-size-to-the-half](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
