@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
@@ -713,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
