@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Graph
