@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0648-replace-words) |
+| [0812-rotate-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1170-shortest-common-supersequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
