@@ -12,7 +12,6 @@ class Solution {
             String newStr = str + ")";
             helper(open, close - 1, list, newStr);
         }
-
     }
 
     public List<String> generateParenthesis(int n) {
