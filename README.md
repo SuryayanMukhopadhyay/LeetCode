@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0037-sudoku-solver) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0020-valid-parentheses) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/0070-climbing-stairs) |
