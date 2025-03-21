@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3797-design-spreadsheet](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3797-design-spreadsheet](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3797-design-spreadsheet](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3107-maximum-spending-after-buying-items](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3107-maximum-spending-after-buying-items) |
+| [3797-design-spreadsheet](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Union Find
 |  |
 | ------- |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1955-seat-reservation-manager](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3797-design-spreadsheet](https://github.com/SuryayanMukhopadhyay/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
